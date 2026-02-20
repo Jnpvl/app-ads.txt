@@ -1,1 +1,1 @@
-# Jnpvl-app-ads.txt
+google.com, pub-4822366214966682, DIRECT, f08c47fec0942fa0
